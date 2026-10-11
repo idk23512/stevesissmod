@@ -9,3 +9,7 @@ Dependencies:
 Neoforge 21.1.256
 
 Iron's Spells and Spellbooks 3.16.3
+
+Modrinth: https://modrinth.com/project/THaXI8HA
+
+
