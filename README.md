@@ -12,4 +12,4 @@ Iron's Spells and Spellbooks 3.16.3
 
 Modrinth: https://modrinth.com/project/THaXI8HA
 
-
+Curseforge: https://www.curseforge.com/minecraft/mc-mods/steve58936s-spells
